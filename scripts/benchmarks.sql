@@ -1,0 +1,1 @@
+-- Separating scripts from the core app means you can run load tests or maintenance tasks independently without booting the web server.
